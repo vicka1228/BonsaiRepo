@@ -1,11 +1,11 @@
-# Your project title
+# Bonsai Scene
 
-A short description.
+A small lovely Bonsai scene.
 
 ## Technical setup instructions
 
-Some special setup requirements. 
+Open in Unity Hub 2020.3.x
 
 ## Special controls 
 
-or other technical need to know things that are crucial to successfully operate/navigate the experience
+Normal Unity controls should be fine. Can play around with the sun in the background.
